@@ -16,8 +16,3 @@
 - Query.py：查詢相關功能
 - ui/：介面相關模組
 
-## 執行方式
-```bash
-pip install -r requirements.txt
-python mainWindow.py
-
